@@ -1,4 +1,4 @@
-package org.example.Arrays;
+package pqtriick.examples.Arrays;
 
 public class Wertesuche {
 
